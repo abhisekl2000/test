@@ -1,1 +1,1 @@
-# test
+This is a test to familiarize myself with Github.
